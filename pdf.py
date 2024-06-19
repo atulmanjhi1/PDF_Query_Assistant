@@ -1,14 +1,14 @@
 # from langchain.text_splitter import CharacterTextSplitter
 # from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
-# from langchain_community.vectorstores import FAISS
-# from PyPDF2 import PdfReader
-# from langchain_groq import ChatGroq
-# from langchain_core.prompts import ChatPromptTemplate
-# from langchain.agents import AgentExecutor, create_tool_calling_agent
-# from langchain.tools.retriever import create_retriever_tool
-# import os
-# import groq
-# import streamlit as st
+from langchain_community.vectorstores import FAISS
+from PyPDF2 import PdfReader
+from langchain_groq import ChatGroq
+from langchain_core.prompts import ChatPromptTemplate
+from langchain.agents import AgentExecutor, create_tool_calling_agent
+from langchain.tools.retriever import create_retriever_tool
+import os
+import groq
+import streamlit as st
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
