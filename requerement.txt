@@ -1,4 +1,3 @@
-streamlit
 langchain
 langchain_community
 spacy
@@ -7,3 +6,4 @@ PyPDF2
 langchain_groq
 groq
 mysql-connector-python (if you're using a MySQL database)
+streamlit
