@@ -1,6 +1,6 @@
 # from langchain.text_splitter import CharacterTextSplitter
 # from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
-from langchain_community.vectorstores import FAISS
+# from langchain_community.vectorstores import FAISS
 from PyPDF2 import PdfReader
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
