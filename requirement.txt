@@ -1,5 +1,5 @@
 PyPDF2
-langchain_groq
-groq
-mysql-connector-python (if you're using a MySQL database)
 streamlit
+spaCy (with the en_core_web_sm model)
+FAISS
+
