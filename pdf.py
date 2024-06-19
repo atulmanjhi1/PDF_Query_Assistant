@@ -1,4 +1,4 @@
-from langchain.text_splitter import CharacterTextSplitter
+# from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
 from langchain_community.vectorstores import FAISS
 from PyPDF2 import PdfReader
