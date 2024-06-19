@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+spacy
+faiss-cpu
+PyPDF2
+langchain_groq
+groq
+mysql-connector-python (if you're using a MySQL database)
